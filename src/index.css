@@ -14,11 +14,9 @@ h2 {
   font-family: "Oswald", sans-serif;
   color: lightgreen;
 }
-h3 {
-  font-family: "Oswald", sans-serif;
-  color: lightskyblue;
+h4 {
+  color: red;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
