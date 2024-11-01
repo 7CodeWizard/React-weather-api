@@ -10,6 +10,14 @@ body {
 h1 {
   font-family: "Oswald", sans-serif;
 }
+h2 {
+  font-family: "Oswald", sans-serif;
+  color: lightgreen;
+}
+h3 {
+  font-family: "Oswald", sans-serif;
+  color: lightskyblue;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
